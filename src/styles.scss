@@ -1,1 +1,33 @@
 /* You can add global styles to this file, and also import other style files */
+html,body, .container {
+    background-color: #e9ecef !important;
+}
+
+.btn-comprar {
+    border-radius: 20px !important;
+    text-decoration: none !important;
+}
+
+@media only screen and (min-width: 375px) {
+    .card-container{
+     height: 370px;
+    }
+}
+
+@media only screen and (min-width: 576px) {
+    .card-container{
+     height: 450px;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .card-container{
+     height: 450px;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .card-container{
+     height: 470px;
+    }
+}

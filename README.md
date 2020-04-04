@@ -1,27 +1,41 @@
-# SummaFed
+# Summa Fed Test
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
+## Acerca del proyecto
 
-## Development server
+Listado de productos creados en un marco de presentación Resposive Disigner; Funciona para dispositivos mobiles (Iphone X), Tablets (Ipad) y web (Destopk).
+Cada tarjeta presentada tiene imagen del producto, descripción, precio anterior y precio en oferta. Además de un botón para ver el detalle del producto.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Características de implementación
 
-## Code scaffolding
+Proyecto desarrollado con Angular 9 y maquetación con Bootstrap 4.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
-## Build
+## Demo del proyecto
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+El demo se encuentra alojado en el siguiente hosting de Heroku:
 
-## Running unit tests
+[http://summa-fed.herokuapp.com](http://summa-fed.herokuapp.com)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Instalacion del proyecto
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Clonar repositorio:
+```shell script
+git clone https://github.com/paangaflo/summa-fed.git summa-fed
+```
+Ingresamos a la carpeta:
+```shell script
+cd summa-fed
+```
+Instalamos las dependencias de npm:
+```shell script
+npm install
+```
+Desplegar en local el proyecto:
+```shell script
+ng serve
+```
+Ingresar en el navegador web a la siguiente ruta:
+```shell script
+http://127.0.0.1:4200
+```

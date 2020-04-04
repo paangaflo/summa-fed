@@ -1,0 +1,14 @@
+[
+    {"name" : "Bonper Fort Fiesta", "image" : "../assets/images/bonper.png", "old_price" : 500, "new_price" : 456},
+    {"name" : "Mouse DELL", "image" : "../assets/images/mouse.png", "old_price" : 99, "new_price" : 75},
+    {"name" : "Teclado APPLE", "image" : "../assets/images/teclado.png", "old_price" : 179, "new_price" : 149},
+    {"name" : "Iphone X", "image" : "../assets/images/iphone.png", "old_price" : 1550, "new_price" : 1299},
+    {"name" : "Camisa Daballero", "image" : "../assets/images/camisa.png", "old_price" : 50, "new_price" : 39},
+    {"name" : "Monitor DELL", "image" : "../assets/images/monitor.png", "old_price" : 250, "new_price" : 199},
+    {"name" : "Corbata Caballero", "image" : "../assets/images/corbata.png", "old_price" : 29, "new_price" : 20},
+    {"name" : "Bolso Dama", "image" : "../assets/images/bolso.png", "old_price" : 75, "new_price" : 65},
+    {"name" : "PlayStation 4 Pro", "image" : "../assets/images/playstation.png", "old_price" : 350, "new_price" : 299},
+    {"name" : "Tenis Nike", "image" : "../assets/images/tenis.png", "old_price" : 45, "new_price" : 40},
+    {"name" : "Calculdora Cientifica", "image" : "../assets/images/calculadora.png", "old_price" : 75, "new_price" : 50},
+    {"name" : "Gorra Adidas", "image" : "../assets/images/gorra.png", "old_price" : 25, "new_price" : 22}
+]
