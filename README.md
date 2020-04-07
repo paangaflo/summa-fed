@@ -1,4 +1,4 @@
-# Summa Fed Test
+<p align="center"><img src="https://summa-fed.herokuapp.com/assets/images/logo-summa-solutions.png" width="400px" alt="logo"></p>
 
 ## Acerca del proyecto
 
